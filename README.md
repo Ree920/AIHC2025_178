@@ -25,7 +25,7 @@ The system maps original granular annotations to specific model targets:
 | **ICCMS_RC5, RC6** | `RC` | 
 
 | Original Data | Classifier Class (Fine-Grained) | 
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **ICCMS_RA1, RA2** | `ICCMS_RA2` |
 | **ICCMS_RA3** | `ICCMS_RA3` |
 | **ICCMS_RB4, RC5** | `ICCMS_RC5` |
