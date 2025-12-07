@@ -19,7 +19,7 @@ The pipeline relies on a COCO-format dataset split into training, validation, an
 The system maps original granular annotations to specific model targets:
 
 | Original Data | YOLO Class (Detection) | 
-| :--- | :--- | :--- |
+| :--- | :--- | 
 | **ICCMS_RA1, RA2, RA3** | `RA` |
 | **ICCMS_RB4** | `RB` |
 | **ICCMS_RC5, RC6** | `RC` | 
