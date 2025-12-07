@@ -1,4 +1,4 @@
-# Two-Stage Dental Caries Detection and Classification Pipeline
+# Enhanced ICCMS Radiographic Staging of Dental Caries Using Localized Deep Learning on Periapical Images
 
 This repository contains a deep learning pipeline designed to automate the detection and classification of dental caries (lesions) from intraoral images. The system operates in two stages:
 1.  **Detection (Stage 1):** Uses **YOLOv8** to localize caries lesions on tooth surfaces.
