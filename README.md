@@ -31,12 +31,6 @@ The system maps original granular annotations to specific model targets:
 | **ICCMS_RB4, RC5** | `ICCMS_RC5` |
 | **ICCMS_RC6** | `ICCMS_RC6` |
 
-## Project Structure
-├── 1__COMBINED_PIPELINE.ipynb  # Main notebook containing the full workflow
-├── split_manifest.json         # Record of train/val/test data splits
-├── README.md                   # This documentation
-├── requirements.txt            # Python dependencies
-
 ## Usage
 - The entire pipeline is encapsulated in the 1__COMBINED_PIPELINE.ipynb notebook.
 - Data Setup: Update the DATA_ROOT and COCO_ANN_PATH variables in the notebook to point to your dataset location.
